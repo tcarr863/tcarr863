@@ -4,5 +4,11 @@ selector {
 }
 */
 body { 
-  backround-color: #66b3ff; 
+  background-color: #66b3ff; 
   }
+
+img { 
+  height: 100px; 
+  width:100px; 
+  border-radius: 50px; 
+}
