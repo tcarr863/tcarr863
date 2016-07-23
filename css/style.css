@@ -24,6 +24,10 @@ a {
 a:hover { 
   color: yellow; 
 } 
+img { 
+  height: 200px; 
+  width: 200px;
+}
 #lego { 
   border-radius: 100px; 
   height: 200px; 
