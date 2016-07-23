@@ -32,9 +32,11 @@ a:hover {
 
 ul { 
  list-style-image: url('http://greenlivingideas.com/wp-content/uploads/2015/08/disruptive-technology.png'); 
-} 
 height: 10px; 
 width: 10px;
+  
+} 
+
 footer { 
   clear: both; 
   padding: 5px; 
