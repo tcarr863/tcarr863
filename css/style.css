@@ -29,6 +29,10 @@ a:hover {
   height: 200px; 
   width: 200px; 
 } 
+
+ul { 
+ list-style-image: url('http://greenlivingideas.com/wp-content/uploads/2015/08/disruptive-technology.png'); 
+}
 footer { 
   clear: both; 
   padding: 5px; 
