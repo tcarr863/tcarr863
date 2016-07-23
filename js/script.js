@@ -1,3 +1,3 @@
 $(document).ready(function(){
-$('img', 'header', 'footer').fadeIn(2000);
+$('img','header','footer').fadeIn(2000);
 });
