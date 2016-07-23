@@ -17,10 +17,6 @@ section {
   float: left; 
   padding: 15px; 
 } 
-footer { 
-  clear: both; 
-  padding: 5px; 
-} 
 a { 
   color: green; 
   text-decoration: none; 
@@ -28,9 +24,13 @@ a {
 a:hover { 
   color: yellow; 
 } 
-img{ 
+#lego { 
   border-radius: 100px; 
   height: 200px; 
   width: 200px; 
-}
+} 
+footer { 
+  clear: both; 
+  padding: 5px; 
+} 
   
