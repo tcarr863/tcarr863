@@ -8,8 +8,8 @@ body {
   background: url("https://static.pexels.com/photos/6550/nature-sky-sunset-man-large.jpeg");
   background-size:cover;
 }
-#blue { 
-  color:blue; 
+#orange { 
+  color:#FFCC33; 
 }
 .navbar { #orange; 
 }
