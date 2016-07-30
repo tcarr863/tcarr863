@@ -9,7 +9,8 @@ body {
 }
 .jumbotron { 
   background: url("https://static.pexels.com/photos/6550/nature-sky-sunset-man-large.jpeg");
-  background-size:cover;
+  background-size:cover; 
+  height:600px;
 }
 #orange { 
   color:#FF9933 
