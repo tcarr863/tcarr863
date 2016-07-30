@@ -3,6 +3,9 @@ body {
 }
 .btn-warning { 
   background:black;
+} 
+.btn-outline { 
+  outline:secondary;
 }
 .jumbotron { 
   background: url("https://static.pexels.com/photos/6550/nature-sky-sunset-man-large.jpeg");
