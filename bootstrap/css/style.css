@@ -5,6 +5,9 @@ body {
   background:black;
 }
 .jumbotron { 
-  background: url("https://static.pexels.com/photos/127053/pexels-photo-127053-large.jpeg");
+  background: url("https://static.pexels.com/photos/6550/nature-sky-sunset-man-large.jpeg");
   background-size:cover;
+}
+#blue { 
+  color:blue; 
 }
