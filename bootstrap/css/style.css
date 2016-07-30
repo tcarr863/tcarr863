@@ -3,6 +3,7 @@ body {
 }
 .btn-warning { 
   background:black;
-  
-  
+}
+.jumbotron { 
+  background: url("https://static.pexels.com/photos/117504/pexels-photo-117504-large.jpeg"); 
 }
