@@ -11,7 +11,8 @@ body {
   background: url("/bootstrap/IMG_4486.JPG");
   background-size:cover; 
   background-attatchement:fixed;
-  height:545px;
+  height:auto; 
+  max-width: 100%;
 }
 #orange { 
   color:#FF9933 
